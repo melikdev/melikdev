@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **NextJS, Python and Useful Javascript Libraries**
 
-- 📫 How to reach me **melikdev@gmail.com**
-
 <p align="left">
 </p>
 
