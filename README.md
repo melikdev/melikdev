@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Melik</h1>
 <h3 align="center">A frontend developer from Turkey</h3>
 
-- 🌱 I’m currently learning **NextJS and Python**
+- 🌱 I’m currently learning **NextJS, Python and Useful Javascript Libraries**
 
 - 📫 How to reach me **melikdev@gmail.com**
 
